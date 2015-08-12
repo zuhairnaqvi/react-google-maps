@@ -1,7 +1,7 @@
 {
   "__template__gist__": "https://gist.github.com/tomchentw/368a93bb748ad9d576f1#file-package-json",
   "name": "react-google-maps",
-  "version": "2.0.2",
+  "version": "2.1.0",
   "description": "React.js Google Maps integration component",
   "main": "lib/index.js",
   "files": [
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/tomchentw/react-google-maps"
+    "url": "https://github.com/zuhairnaqvi/react-google-maps"
   },
   "keywords": [
     "React.js",
@@ -61,9 +61,9 @@
   },
   "dependencies": {
     "google-maps-infobox": "^1.1.13",
-    "react": "^0.13.0"
+    "react": "~0.14.0-beta3"
   },
   "peerDependencies": {
-    "react": "^0.13.0"
+    "react": "~0.14.0-beta3"
   }
 }
